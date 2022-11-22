@@ -33,4 +33,3 @@ after_success:
   - docker push sarahfares/udagram-api-feed-v1:v1
   - docker push sarahfares/udagram-api-user-v1:v1
   - docker push sarahfares/udagram-frontend-v1:local
-  
