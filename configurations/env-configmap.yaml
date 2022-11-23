@@ -7,6 +7,6 @@ data:
   FWD_AWS_REGION: us-east-1
   FWD_AWS_PROFILE: default
   FWD_JWT_SECRET: testing
-  FWD_URL: https://EAE08DB34DE3F2CDFB41C12A87D69A38.gr7.us-east-1.eks.amazonaws.com
+  FWD_URL: http://ac3ecf546296b40bfa13912c55715832-1961231541.us-east-1.elb.amazonaws.com
 metadata:
   name: env-config
